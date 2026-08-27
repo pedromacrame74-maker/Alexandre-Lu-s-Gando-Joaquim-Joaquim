@@ -1,0 +1,7 @@
+{
+  "name": "Dra. Ana Cária - Nutrição & Saúde",
+  "description": "Aplicativo oficial da Dra. Ana Cária com feed de vídeos educativos sobre nutrição, diabetes e hipertensão, biblioteca 'Pode ou Não Pode', avaliação de prato e gerador de roteiros.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
